@@ -255,6 +255,7 @@ if(CLIPPER2_TESTS)
     Tests/TestIsCollinear.cpp
     Tests/TestLines.cpp
     Tests/TestOffsets.cpp
+    Tests/TestOffsetCriticalPoints.cpp
     Tests/TestOffsetOrientation.cpp
     Tests/TestOrientation.cpp
     Tests/TestPolygons.cpp
